@@ -1,0 +1,18 @@
+
+# VENV
+
+### windows
+```bash
+agente_basico_venv\Scripts\activate
+```
+
+### linux
+```bash
+source agente_basico_venv/bin/activate
+```
+
+
+# RUN fastapi
+```bash
+fastapi dev main.py
+```
