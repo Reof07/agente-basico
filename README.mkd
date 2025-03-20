@@ -1,4 +1,9 @@
 
+# Clone the repo
+```bash
+git clone https://github.com/Reof07/agente-basico.git
+```
+
 # VENV
 
 ### windows
@@ -9,6 +14,11 @@ agente_basico_venv\Scripts\activate
 ### linux
 ```bash
 source agente_basico_venv/bin/activate
+```
+
+# install requirements
+```bash
+pip install -r requirements.txt
 ```
 
 
